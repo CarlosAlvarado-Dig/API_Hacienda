@@ -84,7 +84,7 @@ $config['mail']['port']         = getenv('mail_port_587');
 
 # The core installation: This is probably the only one you need to touch
 # IMPORTANTE: La ruta debe finalizar en "/".
-$config['modules']['coreInstall'] = getenv('core_install');
+$config['modules']['coreInstall'] = getenv('C:\Users\carlos.alvarado\Desktop\CostaRicaPruebas\API_Hacienda\api');
 
 # Name of your site, Not in use really
 $config['core']['siteName'] = getenv('core_siteName');
